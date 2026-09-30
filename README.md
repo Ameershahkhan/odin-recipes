@@ -26,7 +26,7 @@ odin-recipes/
 ```
 
 #### Live Demo
-[Click for live demo](Ameershahkhan.github.io/odin-recipes)
+[Click for live demo](https://Ameershahkhan.github.io/odin-recipes)
 
 
 ***Special Thanks to The Odin Project for helping me in my journey***
